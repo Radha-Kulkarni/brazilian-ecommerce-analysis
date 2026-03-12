@@ -14,6 +14,16 @@ This project analyzes the Olist Brazilian e-commerce platform to uncover revenue
 
 ---
 
+## Download
+
+The Excel and Power BI files cannot be previewed on GitHub. To view them:
+
+1. Click the file in the repository
+2. Click **Download raw file** to download it to your device
+3. Open `olist_full_summary_v2.xlsx` in Microsoft Excel and `Olist_Ecommerce_Dashboard.pbix` in Power BI Desktop
+
+---
+
 ## Repository Structure
 
 ```
